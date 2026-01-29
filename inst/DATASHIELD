@@ -1,0 +1,10 @@
+AggregateMethods:
+	DESeq2MultiAssayDS,
+	experimentsDS,
+	statCompleteCasesDS
+AssignMethods:
+	filterCompleteCasesDS,
+	MultiAssayDS,
+	MultiAssay_check_missing_dataDS,
+	MultiAssay_preprocess_dataDS
+	
